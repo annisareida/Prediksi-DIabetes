@@ -63,6 +63,6 @@ You can access the deployed project here:
 ## 👨‍🎓 Project Info  
 
 This project was developed by students of the **Computer Engineering Department, Universitas Sriwijaya**,  
-as part of a final project for the **Jaringan Syaraf Tiruan (Artificial Neural Networks)** course.  
+as part of a final project for the **Artificial Neural Networks** course.  
 
 ---
